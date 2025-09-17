@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.relogio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0; 
+}
+
+.circulo{
+    background-color: rgb(156, 179, 209);
+    height: 30em;
+    width: 30em;
+    border-radius: 50%;
+}
